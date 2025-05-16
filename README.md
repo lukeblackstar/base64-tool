@@ -45,4 +45,4 @@ MIT
 
 ---
 
-Desenvolvido por [@lukeblackstar](https://github.com/lukeblackstar) e comunidade.
+Desenvolvido por [@lukeblackstar](https://github.com/lukeblackstar).
