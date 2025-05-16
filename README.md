@@ -18,7 +18,7 @@ Pré-requisitos:
 
 ```bash
 # Clone o repositório
-git clone <url-do-seu-repo> && cd base64-tool
+git clone <https://github.com/lukeblackstar/base64-tool> && cd base64-tool
 
 # Instale as dependências
 bun install
@@ -38,14 +38,6 @@ O app ficará disponível em http://localhost:3000.
 - [Bun](https://bun.sh/)
 - [lucide-react](https://lucide.dev/)
 - [sonner](https://sonner.emilkowal.ski/)
-
-## 📷 Print da interface (exemplo)
-
-> ![Exemplo da interface do conversor](https://same-assets.com/base64-tool-example.png)
-
-## 🤝 Contribuição
-
-Contribuições e sugestões são bem-vindas! Abra uma issue ou envie um pull request.
 
 ## 📄 Licença
 
